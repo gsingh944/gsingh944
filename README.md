@@ -12,6 +12,14 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Gurpinder Singh</h1>
 <h3 align="center">A passionate Software Developer from Toronto Canada</h3>
 
+- 🔭 I’m currently working on *Web Development*
+
+- 🌱 I’m currently learning *Web In-depth*
+
+- 👨‍💻 All of my projects are available at [https://gurpinder.in/](https://gurpinder.in/)
+
+- 📫 How to reach me *gsingh944@gmail.com*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gurpinder singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gurpinder singh" height="30" width="40" /></a>
